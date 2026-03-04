@@ -1,19 +1,19 @@
 <img src = "banner.jpg"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abubakrgulomov" target="_blank">
+  <a href="https://www.linkedin.com/in/nafderlin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E242A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/sandiction" target="_blank">
+  <a href="https://t.me/nafderlin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1E242A?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/abu.gulomov" target="_blank">
+  <a href="https://www.instagram.com/nafderlin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1E242A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://pinterest.com/sleepyabubakr/_pins/" target="_blank">
+  <a href="https://pinterest.com/nafderlin" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-1E242A?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://x.com/boshmoq" target="_blank">
+  <a href="https://x.com/nafderlin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1E242A?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
