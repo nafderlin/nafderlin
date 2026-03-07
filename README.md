@@ -23,11 +23,12 @@
 </p>
 
 <br>
+<br>
 
 <!-- <h1 align="center">About Me:</h1> -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&weight=900&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&weight=900&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=24&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
 
 ---
 
