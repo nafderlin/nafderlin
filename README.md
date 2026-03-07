@@ -24,14 +24,14 @@
 
 <br>
 
----
-
 <!-- <h1 align="center">About Me:</h1> -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=24&lines=About+Me%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Big+Shoulders&weight=900&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&lines=ABOUT+ME%3A)](https://git.io/typing-svg)
 
-<img src="gif.gif" width="250" align="right" style="margin-left: 20px;" />
+---
+
+<img src="gif.gif" width="250" align="left" style="margin-left: 20px;" />
 <br/>
 
 <p>
