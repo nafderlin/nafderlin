@@ -1,4 +1,4 @@
-[![Typing SVG|100%](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=900&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Abu+Bakr!;Developer+from+Uzbekistan;Learning+%E2%80%A2+Exploring+%E2%80%A2+Building;Always+on+the+move.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonoLisa&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abu+Bakr!;Developer+from+Uzbekistan;Learning+%E2%80%A2+Exploring+%E2%80%A2+Building;Always+on+the+move.)](https://git.io/typing-svg)
 
 <img src = "banner.jpg"/>
 
