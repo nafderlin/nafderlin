@@ -42,6 +42,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 - Always open to learning, picking up new technologies and growing through the work itself
 
 <br/>
+<br/>
 
 <!-- <p align="center">
    <em><b> Target International School '26 </b></em> <br/>
