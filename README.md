@@ -79,6 +79,8 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <!-- <img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> -->
 
+![](https://github-readme-stats.vercel.app/api?username=nafderlin&show_icons=true&theme=transparent)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=nafderlin&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=1000px)<br/><br/>
 
 ---
