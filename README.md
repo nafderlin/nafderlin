@@ -84,7 +84,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 
 <!-- <h2 align="center""> <img src="/images/title3.png" width="25"/> <em> Statistics </em> </h2> -->
 
-<div align = "center"> 
+<!-- <div align = "center"> 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nafderlin&theme=dark&background=0D1117&hide_border=true&card_width=1000&card_height=200)
 
@@ -95,7 +95,7 @@ Hello There! <em><b> I'm AbuBakr Gulomov </b></em>, a "Digital Craftsman". I bui
 ---
 
 
-</div>
+</div> -->
 
 <!-- <h3 align="center"> <em> Visitor Count </em> </h3> -->
 
